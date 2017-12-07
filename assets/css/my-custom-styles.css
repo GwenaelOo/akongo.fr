@@ -1,0 +1,7 @@
+/* your custom styles here */
+
+.fullwidth-image .heading, .fullwidth-image-solid .heading,
+.fullwidth-image .lead .h1,
+.fullwidth-image-solid .lead {
+  color: white;
+}
