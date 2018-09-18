@@ -77,6 +77,7 @@
 		
 
 <p class="lead" style="font-style: italic; text-align: justify;">Partager des expériences, des idées, de l’inspiration avec des scientifiques, des équipes de zoos, des chercheurs de terrain, des visiteurs… pour vous apporter des solutions toujours plus adéquates et innovantes, pour le bénéfice des animaux concernés, et pour susciter l’intérêt et la protection de la faune et la flore extraordinaire qui nous entourent, partout dans le monde.</p>
+		
 		<?php include "team-content.php" ?>
 					</div>
 

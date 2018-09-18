@@ -76,7 +76,7 @@
 								<div class="table-cell">
 									<div class="container">
 										<h1 class="hero-heading" style="color: white; ">Formation personnalisée</h1>
-										<p class="lead" style="color: white; font-style: italic; ">Notre équipe est à votre écoute pour répondre à vos besoins spécifiques et définir ensemble un cycle de formation personnalisé</p>
+										<p class="lead" style="color: white; font-style: italic; ">Notre équipe est à votre écoute pour répondre à vos besoins spécifiques et définir ensemble un cycle de formation personnalisé.</p>
 								
 									</div>
 								</div>
@@ -95,27 +95,39 @@
 
 								<p class="formation-title"><b> Notre équipe est à votre écoute pour répondre à vos besoins spécifiques et définir ensemble un cycle de formation personnalisé pour vous ou votre équipe, pour atteindre vos objectifs stratégiques.</b> </p>
 
-								<p><b>Objectif pédagogique :</b> développer des ateliers adaptés à votre équipe pour vous aider à améliorer sans cesse la qualité de votre établissement.</p> 
+								<p><b>Objectif pédagogique :</b>Développer des ateliers adaptés à votre équipe pour vous aider à améliorer sans cesse la qualité de votre établissement.</p> 
 
-								<p>Les zoos modernes ont des défis à relever : il s’agit d’assurer à la fois le bien-être des animaux présents, de gérer au quotidien le maintien et l’élevage d'animaux sauvages, de contribuer activement à la préservation de la faune et flore, de satisfaire les attentes des visiteurs et de conserver un équilibre budgétaire. Cela nécessite des compétences interdisciplinaires, complémentaires, et une équipe dynamique, efficace, motivée et créative.</p>
-
-								<p>De plus, les zoos sont en constante évolution, améliorant sans cesse leurs standards. </p>
+								<p>
+								Les zoos sont en constantes évolutions, améliorant sans cesse leurs standards et la qualité de services. Pour répondre à vos besoins spécifiques, nous vous proposons choix et flexibilité, avec des formations ponctuelles, à court-terme ou sur le longterme.
+								</p>
+								<p>
+								Le contenu s’adapte à vos attentes : approches approfondies de formations proposées pour plus de pratique, formation axée sur la biologie d’une espèce (ou d’un taxa) et ses conditions d’élevage, utilisation des logiciels de gestion propres aux parcs zoologiques, ou encore développement de compétences plus transversales liées à la communication ou à une évolution de carrière.
+								</p>
 
 								<p>La formation professionnelle continue de votre équipe permet à votre structure de suivre et de vous adapter, mais aussi d'améliorer régulièrement vos compétences en service à la clientèle. En outre, une formation permettant l’acquisition, l’entretien ou le perfectionnement des connaissances pour vos collaborateurs permettra à votre structure de garder une équipe à haute valeur ajoutée, vous assurant ainsi une haute qualité de services.</p>
 
 								<p>Pour répondre à vos besoins spécifiques, nous vous proposons choix et flexibilité :</p>
 
+									<p>Exemple de projets sur lesquelles nous pouvons vous accompagner:</p>
 								<ul>
-									<li> Formation ponctuelle, à court-terme ou sur le long-terme</li>
-									<li> Personnalisation du contenu</li>
-									<li> Évaluation du niveau de compétence d'un ou plusieurs membres de votre personnel</li>
-									<li> Formation long-terme du personnel : accompagnement de la montée en compétences des techniciens (changement de poste)</li>
-									<li> Construction d'équipe (team building)</li>
-									<li> Cours d’initiation et de perfectionnement en éthologie, bien-être animal, animal training</li>
-									<li> Cours de formation axés sur des espèces spécifiques</li>
-
+									<li>Cours de perfectionnement en éthologie, bien-être animal et animal training </li>
+									<li> Cours de formation axés sur des espèces spécifiques </li>
+									<li> Cours de formation axé sur la gestion des groupes sociaux </li>
+									<li> Logiciels spécifiques : ZIMS, Species360 </li>
+									<li> Aide à la communication, vulgarisation scientifique </li>
+									<li> Accompagnement de la montée en compétences des techniciens (changement de poste) </li>
+									<li> Construction d’équipe (team building) </li>
 								</ul>
 
+									<p>Nos services:</p>
+								<ul>
+								<li> Présentations interactives </li>
+								<li> Apports théoriques</li>
+								<li> Exercices pratiques et ateliers</li>
+								<li> Retours d’expériences</li>
+								<li> Discussions et tables rondes </li>
+								
+								</ul>
 
 								<p>Contactez-nous pour discuter de vos projets et objectifs. Ensemble, nous évaluerons la meilleure stratégie pour les atteindre.</p>
 

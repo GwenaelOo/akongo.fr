@@ -67,7 +67,7 @@
 
 
 				<div class="footer-bottom">
-					<p class="copyright-text left">&copy;2017 AKONGO TECHNOLOGY.</p>
+					<p class="copyright-text left">&copy;2018 AKONGO </p>
 					<nav class="right">
 						<ul class="list-inline">
 								<li><a href="http://www.akongo.fr/">Accueil</a></li>

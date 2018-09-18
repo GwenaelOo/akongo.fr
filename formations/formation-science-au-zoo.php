@@ -91,36 +91,43 @@
 							<div class="portfolio-single-info" style="text-align: justify;">
 								<h1 class="section-heading">Formation professionnelle : « Science et management des animaux »</h1>
 
-								<p class="formation-title">Les travaux de recherche menés sur le terrain ou en zoos améliorent nos connaissances et le management des animaux. Avec nos formations, découvrez et intégrez la science dans votre quotidien </p>
+								<p class="formation-title">Les travaux de recherche menés sur le terrain ou en zoos peuvent améliorer le bien-être de vos animaux mais également vous faciliter le quotidien. </p>
 								
 
 								<p><b>Objectif pédagogique :</b> Acquisition, entretien ou perfectionnement des connaissances, conformément à l’article L6313-1 du code du travail.</p>
 								<p><b>Objectif de la formation :</b> Inclure les résultats des dernières recherches scientifiques dans le management quotidien des animaux.  
 								</p>	</br>
 
-								<p>Pour améliorer sans cesse la qualité de l’accueil des animaux et du public, prenons le temps de réunir les nombreuses connaissances et recommandations issues de disciplines complémentaires (biologie, éthologie, physiologie, médecine vétérinaire, sociologie, etc.) pour les mettre en œuvre au quotidien.  </p>
-								
+								<p>
+								Aider les professionnels à réunir et appliquer les connaissances et recommandations issues des recherches scientifiques (biologie, éthologie, physiologie, nutrition, médecine vétérinaire, sociologie, génétique, etc.) dans la gestion quotidienne.
+								</p>
 
-								<p>A la fin de cet atelier, les participants seront capables de : </p>
+								<p>
+								Les parcs zoologiques sont à la fois des contributeurs majeurs dans le développement des connaissances scientifiques - notamment dans les sciences du vivant - et des utilisateurs, puisque les méthodes d’élevage et de conservation bénéficient des avancées scientifiques. Lors de cette journée, les participants apprendront où trouver les informations, comment les synthétiser, comment les mettre en pratique, et comment les expliquer aux visiteurs.
+								</p>
+
+								<p>Contenu de la formation : </p>
 									<ul>
-										<li>	Connaître les dernières recherches scientifiques dans le domaine du bien-être animal en parcs zoologiques.</li>
-										<li>	Comprendre l’évolution des connaissances et des thématiques de recherche.</li>
-										<li>	Connaître les différentes méthodologies utilisées en recherche.</li>
-										<li>	Appliquer les dernières découvertes scientifiques dans la gestion quotidienne des animaux.</li>
-
+										<li> Types d’activités scientifiques en parcs zoologiques </li>
+										<li> Intérêt des projets de recherche en parcs zoologiques </li>
+										<li> Évolution des connaissances et thématiques de recherche </li>
+										<li> Stratégies de recherche menées et soutenues par l’EAZA </li>
+										<li> Connaissances scientifiques et gestion des animaux </li>
+										<li> Bien-être animal : actualités scientifiques </li>
+										<li> Recherche et conservation </li>
+										<li> Programmes scientifiques in-situ et ex-situ </li>
+										<li> Communication scientifique auprès des visiteurs </li>
 									</ul>
-
 
 								<p>Cette formation conjugue : </p>
 							
 										<ul>
-											<li>	Apports théoriques.</li>
-											<li>	Présentations interactives, avec échanges et discussions tout au long des sessions.</li>
-
-
+											<li> Présentations interactives</li>
+											<li> Apports théoriques</li>
+											<li> Exercices pratiques et ateliers</li>
+											<li> Retours d’expériences </li>
+											<li> Discussions et tables rondes</li>
 										</ul>
-
-
 								</br>
 
 
@@ -136,9 +143,9 @@
 								<h3 class="section-heading">Information sur la formation </h3>
 								<ul class="list-unstyled project-detail-list margin-bottom-50">
 
-									<li><strong>Public :</strong> soigneurs animaliers, assistants scientifiques, vétérinaires, équipe pédagogique</li>
-									<li><strong>Capacité :</strong> 4-16 personnes </li>
-									<li><strong>Prérequis :</strong> pas de prérequis. </li>
+									<li><strong>Public :</strong> Soigneurs et équipe animalière, équipe pédagogique</li>
+									<li><strong>Capacité :</strong> 20 personnes maximum </li>
+									<li><strong>Prérequis :</strong> bases BEA </li>
 									<li><strong>Durée :</strong> 1 journée </li>
 									<li><strong>Localisation :</strong> Dans vos locaux</li>
 									<li><strong>Tarif :</strong> Nous consulter pour un devis </li>

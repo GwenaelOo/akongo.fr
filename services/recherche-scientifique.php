@@ -121,7 +121,8 @@
 
 							</ul>
 
-							<p>Les analyses vidéo sont effectuées à l’aide des logiciels Interact et The Observer. Les analyses SIG sont réalisées avec les logiciels QGIS et ArcView.</p>
+							<p>Les analyses vidéo sont effectuées à l’aide des logiciels Interact et The Observer. Les analyses SIG sont réalisées avec les logiciels QGIS et ArcView. Les analyses statistiques
+sont réalisées avec le logiciel R.</p>
 
 						</div>
 

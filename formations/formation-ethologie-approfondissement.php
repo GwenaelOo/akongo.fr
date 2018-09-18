@@ -59,7 +59,7 @@
 				<ol class="breadcrumb link-accent">
 					<li><a href="http://www.akongo.fr/">Accueil</a></li>
 					<li><a href="http://www.akongo.fr/formations/liste-formations.php">Nos formations</a></li>
-					<li class="active">Bien-être Animal</li>
+					<li class="active">Ethologie</li>
 					
 				
 				</ol>
@@ -76,7 +76,7 @@
 								<div class="table-cell">
 									<div class="container">
 										<h1 class="hero-heading" style="color: white; ">Formation professionnelle : "Ethologie : approfondissement des connaissances"</h1>
-										<p class="lead" style="color: white; font-style: italic; ">Décrypter les comportements des animaux et mettez en place des protocoles d’études en éthologie appliquée</p>
+										<p class="lead" style="color: white; font-style: italic; ">Approfondissez vos connaissances en éthologie et exercez  vous pour mettre cet outil en pratique au quotidien dans votre établissement.</p>
 										
 									
 									</div>
@@ -92,35 +92,38 @@
 							<div class="portfolio-single-info" style="text-align: justify;">
 								<h1 class="section-heading">Formation professionnelle : "Ethologie : approfondissement des connaissances"</h1>
 
-								<p class="formation-title">L’éthologie est un outil précieux pour la gestion d’animaux. Initiation ou perfectionnement, notre équipe est là vous accompagner. </p>
+								<p class="formation-title">Apprenez à mettre en place des protocoles d’études pour gérer les animaux</p>
 								
 
-								<p><b>Objectif pédagogique :</b> acquisition, entretien ou perfectionnement des connaissances, conformément à l’article L6313-1 du code du travail.</p>
-								<p><b>Objectif de la formation :</b> Décrypter les comportements des animaux et mettre en place des protocoles d’études en éthologie appliquée. </p>	</br>
+								<p><b>Objectif pédagogique :</b> Acquisition, entretien ou perfectionnement des connaissances, conformément à l’article L6313-1 du code du travail.</p>
+								<p><b>Objectif de la formation :</b> Aider les professionnels à utiliser l’éthologie de façon appliquée, pour prévenir et rectifier les comportements anormaux et gérer les groupes sociaux, mais également à comprendre les mécanismes cognitifs sous-jacents aux comportements. </p>	</br>
 
-								<p>Comprendre et décrypter les comportements des animaux, les relations organisme-environnement, en se basant sur des approches comparatives et intégratives. Interpréter l’impact positif ou négatif des comportements induits par la captivité. Evaluer l’effet d’un changement du milieu (changement au sein du groupe, mise en place d’enrichissements, etc.)</p>
+								<p>Cette journée sera riche en études de cas, les participants apprendront à définir et mettre en œuvre un protocole (choix de la méthode, pertinence de l’étude, analyse des résultats) pour répondre à différentes problématiques communément rencontrées en parcs zoologiques, telle que la gestion des groupes sociaux (naissances, décès, transferts, changements d’environnement). Les participants apprendront également à mettre en place des études de suivi sur le long-terme. </p>
 
 								<p>Contenu de la formation : </p>
 								<ul>
 						
-									<li> Ethologie et cognition.</li>
-									<li> Etude de la personnalité.</li>
-									<li> Ethologie expérimentale.</li>
-									<li> Milieu naturel et captivité.</li>
-									<li> Réponses comportementales à un environnement captif.</li>
-									<li> Définir un protocole d’étude.</li>
-									<li> Ethologie et bien-être animal.</li>
+									<li>Mécanismes et apprentissages </li>
+									<li> Ethologie et cognition </li>
+									<li> Ethologie expérimentale </li>
+									<li> Définition, mise en œuvre et évaluation de la pertinence d’un protocole </li>
+									<li> Analyse de données comportementales </li>
+									<li> Gestion des groupes : réseaux sociaux, transferts et introductions de nouveaux individus </li>
+									<li> Diversification du répertoire comportemental </li>
+									<li> Analyse des  comportements anormaux, planification des ajustements</li>
+
 
 
 								</ul>
 
 								<p>Cette formation conjugue :</p>
-								<ul>
-									<li>	Apports théoriques</li>
-									<li>	Exercices pratiques</li>
-									<li>	Présentations interactives, avec échanges et discussions tout au long des sessions</li>
-
-								</ul>
+									<ul>
+								<li> Présentations interactives </li>
+								<li> Apports théoriques</li>
+								<li> Exercices pratiques et ateliers</li>
+								<li> Retours d’expériences</li>
+								<li> Discussions et tables rondes </li>
+									</ul>
 
 
 								</br>
@@ -138,11 +141,11 @@
 								<h3 class="section-heading">Information sur la formation </h3>
 								<ul class="list-unstyled project-detail-list margin-bottom-50">
 
-									<li><strong>Public :</strong> équipe animalière, et toute personne intéressée par la compréhension des comportements des animaux.</li>
-									<li><strong>Capacité :</strong> 4-16 personnes </li>
+									<li><strong>Public :</strong> Toute personne intéressée par la compréhension des comportements des animaux.</li>
+									<li><strong>Capacité :</strong> 16 personnes maximum </li>
 									<li><strong>Prérequis :</strong> avoir des connaissances de base en éthologie (voir formation « initiation à l’éthologie »).</li>
-									<li><strong>Durée :</strong> 2 jours </li>
-									<li><strong>Localisation :</strong> Dans vos locaux</li>
+									<li><strong>Durée :</strong>2 jours </li>
+									<li><strong>Localisation :</strong> Dans vos locaux ou parc zoologique partenaire</li>
 									<li><strong>Tarif :</strong> Nous consulter pour un devis </li>
 								</ul>
 

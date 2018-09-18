@@ -75,7 +75,7 @@
 							<div class="table-wrap">
 								<div class="table-cell">
 									<div class="container">
-										<h1 class="hero-heading" style="color: white; ">Formation professionnelle : « Bien-être animal – concepts et bonnes pratiques »</h1>
+										<h1 class="hero-heading" style="color: white; ">Formation professionnelle : « Bien-être animal »</h1>
 										<p class="lead" style="color: white; font-style: italic; ">Vital pour eux, primordial pour vous</p>
 									
 									</div>
@@ -90,35 +90,41 @@
 							<div class="portfolio-single-info" style="text-align: justify;">
 								<h1 class="section-heading">Formation professionnelle : « Bien-être animal »</h1>
 
-								<p class="formation-title">Parce que le bien-être des animaux est un élément essentiel et un domaine en plein développement, nos formations évoluent avec vous.</p>
+								<p class="formation-title">Parce que le bien-être des animaux est un élément essentiel et un domaine en plein développement, nos formations évoluent avec vous. </p>
 								
 
-								<p><b>Objectif pédagogique :</b> acquisition, entretien ou perfectionnement des connaissances, conformément à l’article L6313-1 du code du travail.</p>
-								<p><b>Objectif de la formation :</b> Mieux comprendre ce qu’est le bien-être animal, et connaître les bonnes pratiques à mettre en œuvre au quotidien. Comprendre comment la connaissance du comportement animal et l’évaluation du bien-être peuvent être appliquées à la gestion quotidienne et à la résolution de problèmes.  </p>	</br>
+								<p><b>Objectif pédagogique : </b>Acquisition, entretien ou perfectionnement des connaissances, conformément à l’article L6313-1 du code du travail.</p>
+								<p><b>Objectif de la formation : </b>Cette formation est destinée aux professionnels des parcs zoologiques qui ont à cœur d’améliorer sans cesse le bien-être de leurs animaux. </p>	</br>
 
-								<p>S’assurer du bien-être des animaux dont nous avons la charge, c’est avant tout promouvoir des valeurs d’éthique et de respect. Les animaux en sont les premiers bénéficiaires, mais ne sont pas les seuls : les travailleurs bénéficient ainsi d’une amélioration de leur travail et les visiteurs profitent d’un moment ludique, riche en émotions, dans un cadre de respect et de bienveillance. Promouvoir le bien-être de vos animaux, c’est promouvoir la qualité de votre établissement.</p>
+								<p>L’objectif de cette formation est d’aider les professionnels à mieux comprendre ce qu’est le bien-être, à identifier les différents facteurs influençant le bien-être des animaux, à l’évaluer grâce à des outils scientifiques, et à développer une approche globale favorisant le bien-être animal au sein de leur institutions. Les participants apprendront à reconnaître les indicateurs négatifs et positifs chez différentes espèces, à utiliser des méthodes limitant le stress des animaux (capture, nettoyage quotidien, gestion des groupes). Les 5 grands types d’enrichissements seront vus en détails et au travers de plusieurs cas pratiques. </p>
 
 
 								<p>Contenu de la formation : </p>
 								<ul>
 						
-									<li>	Définition et concepts de base sur le bien-être animal.</li>
-									<li>	Méthodes d’évaluation du bien-être animal.</li>
-									<li>	Facteurs impactant sur le bien-être animal.</li>
-									<li>	Rôle et type d’enrichissements.</li>
-									<li>	Définition d’objectifs, planification, mise en œuvre et évaluation.</li>
-									<li>	Règles de sécurité à respecter.</li>
-									<li>	Problèmes de comportements et gestion d’animaux au profil particulier.</li>
-									<li>	Discussion de nouvelles idées et tendances relatives au bien-être animal et à l'enrichissement.</li>
+									<li> Bien-être animal : définition et facteurs mis en jeu </li>
+									<li> Connaissances des espèces : biologie, physiologie et écologie</li>
+									<li> Évaluation du bien-être : outils éthologiques, mesures physiologiques</li>
+									<li> Suivi vétérinaire et veille sanitaire</li>
+									<li> Reproduction</li>
+									<li> Nutrition et alimentation</li>
+									<li> Habitat et aménagement des enclos</li>
+									<li> Rôle et type d’enrichissements et de training</li>
+									<li> Influence de l’équipe animalière et des visiteurs sur les animaux</li>
+									<li> Gestion des individus et des groupes sociaux, mises en contact</li>
+									<li> Transports et autres évènements stressants</li>
+									<li> Gestion d’animaux au profil particulier et gestion des problèmes</li>
 
 								</ul>
 
 								<p>Cette formation conjugue :</p>
 								<ul>
-									<li>	Apports théoriques</li>
-									<li>	Exercices pratiques</li>
-									<li>	Présentations interactives, avec échanges et discussions tout au long des sessions</li>
-
+								<li> Présentations interactives </li>
+								<li> Apports théoriques</li>
+								<li> Exercices pratiques et ateliers</li>
+								<li> Retours d’expériences</li>
+								<li> Discussions et tables rondes </li>
+								
 								</ul>
 
 
@@ -137,11 +143,11 @@
 								<h3 class="section-heading">Information sur la formation </h3>
 								<ul class="list-unstyled project-detail-list margin-bottom-50">
 
-									<li><strong>Public :</strong> Soigneurs animaliers</li>
-									<li><strong>Capacité :</strong> 4-16 personnes </li>
+									<li><strong>Public :</strong>Soigneurs animaliers, vétérinaires, et toute personne travaillant avec la faune sauvage</li>
+									<li><strong>Capacité :</strong> 16 personnes maximum </li>
 									<li><strong>Prérequis :</strong> Pas de prérequis. </li>
-									<li><strong>Durée :</strong> 2 jours </li>
-									<li><strong>Localisation :</strong> Dans vos locaux</li>
+									<li><strong>Durée :</strong> 2 jours et demi</li>
+									<li><strong>Localisation :</strong> Dans vos locaux ou parc zoologique partenaire</li>
 									<li><strong>Tarif :</strong> Nous consulter pour un devis </li>
 								</ul>
 

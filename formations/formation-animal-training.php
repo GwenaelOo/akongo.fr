@@ -76,7 +76,7 @@
 								<div class="table-cell">
 									<div class="container">
 										<h1 class="hero-heading" style="color: white; ">Formation professionnelle : « Animal training »</h1>
-											<p class="lead" style="color: white; font-style: italic; ">Zoos, parcs animaliers, laboratoires, fermes pédagogiques : l’équipe d’AKONGO vous propose des formations dédiées à l’entraînement des animaux pour améliorer leur bien-être.</p>
+											<p class="lead" style="color: white; font-style: italic; ">Découvrez comment l’entraînement des animaux peut améliorer leur bien-être et vous faciliter leur gestion au quotidien.</p>
 									</div>
 								</div>
 							</div>
@@ -90,38 +90,40 @@
 							<div class="portfolio-single-info" style="text-align: justify;">
 								<h1 class="section-heading">Formation professionnelle : « Animal training »</h1>
 
-								<p class="formation-title">Parce que le bien-être des animaux est un élément essentiel et un domaine en plein développement, nos formations évoluent avec vous.</p>
+								<p class="formation-title">Apprendre à mettre en place un programme d’entraînement adapté à vos besoins et contraintes.</p>
 								
 
-								<p><b>Objectif pédagogique :</b> acquisition, entretien ou perfectionnement des connaissances, conformément à l’article L6313-1 du code du travail.</p>
-								<p><b>Objectif de la formation :</b> Inclure l’entrainement animal dans la gestion quotidienne.</p>
+								<p><b>Objectif pédagogique :</b> Acquisition, entretien ou perfectionnement des connaissances, conformément à l’article L6313-1 du code du travail.</p>
+								<p><b>Objectif de la formation :</b> Les programmes d’entraînements mis en place dans les parcs zoologiques ont pour but d’améliorer le bien-être des animaux et de faciliter le travail des soigneurs dans la gestion quotidienne des animaux.</p>
 									</br>
-								<p> La vie des animaux en parc zoologique n’est pas de tout repos : affluence et profil des visiteurs variables, 
-changement de groupe, transferts entre parcs zoologiques, évolution de l’habitat, changement de l’équipe soignante… autant de facteurs qui peuvent conduire à un stress temporaire ou chronique.  L’entraînement des animaux les aident à mieux appréhender leur milieu, créer une routine, les désensibiliser et ainsi diminuer le stress lié à certaines pratiques.
-.</p>
+								<p>Cette formation présente les bases de l’entraînement des animaux pour les professionnels qui souhaitent démarrer un programme. Durant ces trois jours, les différentes techniques d’entraînement, leurs applications, la méthodologie ainsi qu’une compréhension approfondie des compétences nécessaires pour entraîner les animaux seront détaillées. Les participants auront l’occasion de développer leurs compétences de formation par des travaux pratiques, des observations de training sur différentes espèces et des activités de groupe.</p>
 
 								<p>Contenu de la formation : </p>
 								<ul>
 						
-									<li> Définition et concepts de base sur l’entraînement animal.</li>
-									<li> Méthodes de mise en œuvre.</li>
-									<li> Objectifs de l’entraînement animal.</li>
-									<li> Définition d’objectifs, planification, mise en œuvre et évaluation.</li>
-									<li> Règles de sécurité à respecter.</li>
-									<li> Problèmes de comportements et gestion d’animaux au profil particulier.</li>
+									<li> Théories et concepts de base du training</li>
+									<li> Liens entre training et bien-être animal</li>
+									<li> Motivation des animaux et communication</li>
+									<li> Applications du training</li>
+									<li> Techniques d’apprentissage</li>
+									<li> Techniques de bases et techniques avancées</li>
+									<li> Façonnage des comportements et renforcement</li>
+									<li> Création et mise en œuvre d’un programme de training</li>
+									<li> Training et gestion quotidienne des animaux</li>
+									<li> Mise en place de training dans des groupes sociaux</li>
+									<li> Résolution de problèmes de comportements</li>
 
 
 								</ul>
 
 								<p>Cette formation conjugue :</p>
-								<ul>
-									<li>	Apports théoriques</li>
-									<li>	Exercices pratiques</li>
-									<li>	Présentations interactives, avec échanges et discussions tout au long des sessions</li>
-
-								</ul>
-
-
+									<ul>
+								<li> Présentations interactives </li>
+								<li> Apports théoriques</li>
+								<li> Exercices pratiques et ateliers</li>
+								<li> Retours d’expériences</li>
+								<li> Discussions et tables rondes </li>
+									</ul>
 								</br>
 
 
@@ -137,11 +139,11 @@ changement de groupe, transferts entre parcs zoologiques, évolution de l’habi
 								<h3 class="section-heading">Information sur la formation </h3>
 								<ul class="list-unstyled project-detail-list margin-bottom-50">
 
-									<li><strong>Public :</strong> Soigneurs animaliers</li>
-									<li><strong>Capacité :</strong> 4 - 12 personnes </li>
+									<li><strong>Public :</strong> Soigneurs animaliers, vétérinaires, curateurs</li>
+									<li><strong>Capacité :</strong> 16 personnes maximum </li>
 									<li><strong>Prérequis :</strong> Pas de prérequis. </li>
 									<li><strong>Durée :</strong> 3 jours </li>
-									<li><strong>Localisation :</strong> Dans vos locaux</li>
+									<li><strong>Localisation :</strong> Dans vos locaux ou parc zoologique partenaire</li>
 									<li><strong>Tarif :</strong> Nous consulter pour un devis </li>
 								</ul>
 

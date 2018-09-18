@@ -76,7 +76,7 @@
 								<div class="table-cell">
 									<div class="container">
 										<h1 class="hero-heading" style="color: white; ">Formation professionnelle : "Aménagement d'enclos en parc zoologique"</h1>
-										<p class="lead" style="color: white; font-style: italic; ">Pour le bien-être de vos animaux, mais pas seulement !</p>
+										<p class="lead" style="color: white; font-style: italic; ">L’habitat joue un rôle essentiel dans le bien-être de vos animaux, mais est également crucial pour votre équipe et pour la perception des visiteurs. </p>
 										
 									</div>
 								</div>
@@ -91,73 +91,53 @@
 							<div class="portfolio-single-info" style="text-align: justify;">
 								
 								</br>
+								<p class="formation-title"><b>Faire le maximum pour que leurs espaces vitaux répondent à leurs besoins, chaque jour, toute l’année</b></p>
+								<p><b>Objectif pédagogique :</b> Acquisition, entretien ou perfectionnement des connaissances, conformément à l’article L6313-1 du code du travail.</p>
+								<p><b>Objectif de la formation :</b> Appréhender les bases de l’aménagement d’enclos pour concevoir des infrastructures adaptées aux besoins physiques et sociaux des différentes espèces présentées. </p></br>
 
-								<p class="formation-title"><b>L’habitat joue un rôle essentiel dans le bien-être de vos animaux, mais est également crucial pour votre équipe et pour la perception des visiteurs. Quels que soient vos aménagements (créations ou réaménagements), découvrez nos formations.</b></p>
-								
+								<p>Tout animal vit dans un habitat, et son répertoire comportemental est majoritairement lié à son milieu de vie. Lors de cette formation, les participants apprendront à définir et à prioriser les besoins de chacun (animaux, équipes, visiteurs), à connaître les principes de base du design, afin de proposer des aménagements structurels permettant d’améliorer le bien-être des animaux et l’aspect logistique, lors de la création de nouvelles structures ou la transformation de structures existantes. Les contraintes budgétaires et de planning, les aspects pédagogiques, la scénographie globale et les attentes des visiteurs seront également analysées. </p>
 
-								<p><b>Objectif pédagogique :</b> acquisition, entretien ou perfectionnement des connaissances, conformément à l’article L6313-1 du code du travail.</p>
-								<p><b>Objectif de la formation :</b> Former le personnel des espaces animaliers à l’aménagement d’enclos (réaménagements et créations), de la conception à la mise en œuvre. </p></br>
-
-								<p>L’habitat joue un rôle essentiel pour le bien-être de vos animaux, l’efficacité des travailleurs et la perception des visiteurs. Les zoos évoluent constamment, que ce soit par la création de nouvelles structures ou la transformation de structures existantes.</p>
-								<p>Les principes de bases du design doivent être connus et maîtrisés afin que les stratégies et prises de décisions incluant les attentes de chacun, et les moyens pour y parvenir.</p>
-
-								<p>A l’issue de la formation, les participants seront capables de : </p>
+								<p>Contenu de la formation : </p>
 								<ul>
-								<li>Connaître les besoins des animaux concernés en relation avec leur environnement.</li>
-								<li>Connaître les principes à respecter lors de l’aménagement d’enclos pour assurer le bien-être des animaux et l’intérêt du public.</li>
-								<li>Intégrer la scénographie et l’aménagement paysager dans l’aménagement des enclos.</li>
-								<li>Définir, mettre en place et suivre un programme d’enrichissement adapté à l’espèce et aux conditions d’hébergement.</li>
-								<li>Mettre en place et respecter les règles de sécurité pour les animaux, les travailleurs et les visiteurs.</li>
-								<li>Expliquer le rôle et l’importance de l’aménagement des enclos auprès des visiteurs.</li>
-								<li>Concevoir des infrastructures adaptées aux besoins physiques et sociaux des différentes espèces présentées.</li>
+									<li> Besoins des animaux en relation avec leur environnement. </li>
+									<li> Principes à respecter lors de l’aménagement d’enclos pour assurer le bien-être des animaux et l’intérêt du public.</li> 
+									<li> Scénographie et aménagement paysager </li>
+									<li> Définir, mettre en place et suivre un programme d’enrichissement adapté à l’espèce et aux conditions d’hébergement. </li>
+									<li> Règles de sécurité pour les animaux, les travailleurs et les visiteurs. </li>
+									<li> Expliquer le rôle et l’importance de l’aménagement des enclos auprès des visiteurs. </li>
+									<li> Conception d’infrastructures adaptées aux besoins physiques et sociaux des différentes espèces présentées.</li>
 								</ul>
-
-								<p>Cette formation conjugue :</p>
-								<ul>
-								<li>Apports théoriques.</li>
-								<li>Présentations étayées par des études de cas et retours d’expériences.</li> 
-								<li>Exercices pratiques.</li>
-								<li>Présentations interactives, avec échanges et discussions tout au long des sessions.</li>
-								</ul>
-
-
+										<p>Cette formation conjugue :</p>
+									<ul>
+										<li> Présentations interactives </li>
+										<li> Apports théoriques</li>
+										<li> Exercices pratiques et ateliers</li>
+										<li> Retours d’expériences</li>
+										<li> Discussions et tables rondes </li>
+									</ul>
 								</br>
-
-
 							</div>
 								</div>
 						
 						<div class="col-md-4">
 							<div class="portfolio-single-detail">
 								</br>
-
-
-
 								<img src="../assets/img/vignettes/formation-amenagement-enclos.jpg" class="img-responsive" style="width: 90%; height: auto;  " alt="Formation aménagement enclos">
 								
 								<h3 class="section-heading">Information sur la formation </h3>
 								<ul class="list-unstyled project-detail-list margin-bottom-50">
 
-									<li><strong>Public :</strong> Soigneurs animaliers, techniciens, équipe pédagogique</li>
-									<li><strong>Capacité :</strong> 4-16 personnes </li>
-									<li><strong>Prérequis :</strong> pas de prérequis. </li>
-									<li><strong>Durée :</strong> 2 jours </li>
-									<li><strong>Localisation :</strong> Dans vos locaux</li>
+									<li><strong>Public :</strong> Équipe animalière, paysagistes, techniciens, équipe pédagogique</li>
+									<li><strong>Capacité :</strong> 16 personnes maximum </li>
+									<li><strong>Prérequis :</strong> avoir des connaissances de base en éthologie (voir formation « initiation à l’éthologie »).</li>
+									<li><strong>Durée :</strong>2 jours </li>
+									<li><strong>Localisation :</strong> Dans vos locaux ou parc zoologique partenaire</li>
 									<li><strong>Tarif :</strong> Nous consulter pour un devis </li>
 								</ul>
-
 							<?php include 'formation-contact-us-right.php'; ?>
-
-
-
 						</div>
-
-
-
 					</div>
 				</div>
-
-				
 			</section>
 			
 			<?php include('contact-us-formation.php'); ?>

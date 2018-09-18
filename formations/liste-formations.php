@@ -111,7 +111,7 @@
 									<img src="../assets/img/vignettes/formation-bien-etre.jpg" class="img-responsive" alt="Formation bien être animal">
 									<div class="info">
 										<h3 class="title">Bien-être animal</h3>
-										<span>2 jours</span>
+										<span>2 jours et demi</span>
 										<a href="http://www.akongo.fr/formations/formation-bien-etre-animal.php" class="btn btn-primary btn-sm">En savoir plus</a>
 									</div>
 								</div>

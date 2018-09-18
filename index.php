@@ -266,59 +266,7 @@
 		</section>
 		<!-- END SHOWCASE -->
 
-		<!-- latest posts -->
-
-		<hr class="light-sep">
-			<div class="container">
-				<div class="row">
-
-			<div class="section-heading">
-							<h2 class="heading-border heading-thin">Nos actualités</h2>
-							<p class="section-lead" style=" font-size: 20px; font-weight: 300;">Actualités du monde des zoos et de la science, nouvelles des projets et billets d'humeur</p>
-						</div>
-
-						<section class="no-padding-top">
-						
-							<div class="clearfix margin-top-30 margin-bottom-30"></div>
-							<div class="row">
-
-
-
-								  <?php require('../akongo.fr/wordpress/wp-blog-header.php');
-							 
-								$args = array( 'numberposts' => 2, 'post_status'=>"publish",'post_type'=>"post",'orderby'=>"post_date");
-								$postslist = get_posts( $args );
-								
-								 foreach ($postslist as $post) :  setup_postdata($post);
-
-
-								$content = get_the_content(); 
-
-							   ?>
-
-								<div class="col-sm-6">
-									<div class="post-entry-card">
-										<a href="#"><img style="height: 260px; width: 600px;" src="<?php  the_post_thumbnail_url(); ?>" class="img-responsive" alt="Post Thumbnail"></a>
-										<div class="post-info">
-											<h3 class="post-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-											<p class="post-excerpt"><?php echo mb_strimwidth($content, 0, 280); ?> ...</p>
-											<span class="post-meta"><i class="fa fa-calendar-o"></i> <?php the_date(); ?></span>
-											<a href="<?php the_permalink(); ?>" class="read-more pull-right">Lire l'article</a>
-										</div>
-									</div>
-								</div>
-
-
-
-								<?php endforeach; ?>
-
-
-							</div>
-							
-							</div>
-							</div>
-
-						</section>
+	
 		
 		
 		<section>
@@ -326,7 +274,13 @@
 			<div class="container">
 				<div class="section-heading">
 							<h2 class="heading-border heading-thin">Notre équipe</h2>
-							<p class="section-lead" style=" font-size: 20px; font-weight: 300; text-align: justify;">Partager des expériences, des idées, de l’inspiration avec des scientifiques, des équipes de zoos, des chercheurs de terrain, des visiteurs… pour vous apporter des solutions toujours plus adéquates et innovantes, pour le bénéfice des animaux concernés, et pour susciter l’intérêt et la protection de la faune et la flore extraordinaire qui nous entourent, partout dans le monde.</p>
+							
+							
+							<!-- <p class="section-lead" style=" font-size: 20px; font-weight: 300; text-align: justify;">Partager des expériences, des idées, de l’inspiration avec des scientifiques, des équipes de zoos, des chercheurs de terrain, des visiteurs… pour vous apporter des solutions toujours plus adéquates et innovantes, pour le bénéfice des animaux concernés, et pour susciter l’intérêt et la protection de la faune et la flore extraordinaire qui nous entourent, partout dans le monde.</p> -->
+ 
+							
+						
+						
 						</div>
 				<div class="row">
 
@@ -432,6 +386,60 @@
 			</div>
 		</section>
 		<!-- END OUR PORTFOLIO -->
+
+			<!-- latest posts -->
+
+		<hr class="light-sep">
+			<div class="container">
+				<div class="row">
+
+			<div class="section-heading">
+							<h2 class="heading-border heading-thin">Nos actualités</h2>
+							<p class="section-lead" style=" font-size: 20px; font-weight: 300;">Actualités du monde des zoos et de la science, nouvelles des projets et billets d'humeur</p>
+						</div>
+
+						<section class="no-padding-top">
+						
+							<div class="clearfix margin-top-30 margin-bottom-30"></div>
+							<div class="row">
+
+
+
+								  <?php require('../akongo.fr/wordpress/wp-blog-header.php');
+							 
+								$args = array( 'numberposts' => 2, 'post_status'=>"publish",'post_type'=>"post",'orderby'=>"post_date");
+								$postslist = get_posts( $args );
+								
+								 foreach ($postslist as $post) :  setup_postdata($post);
+
+
+								$content = get_the_content(); 
+
+							   ?>
+
+								<div class="col-sm-6">
+									<div class="post-entry-card">
+										<a href="#"><img style="height: 260px; width: 600px;" src="<?php  the_post_thumbnail_url(); ?>" class="img-responsive" alt="Post Thumbnail"></a>
+										<div class="post-info">
+											<h3 class="post-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+											<p class="post-excerpt"><?php echo mb_strimwidth($content, 0, 280); ?> ...</p></i>
+											<span class="post-meta"><i class="fa fa-calendar-o"></i> <?php the_date(); ?></span>
+											<a href="<?php the_permalink(); ?>" class="read-more pull-right">Lire l'article</a>
+										</div>
+									</div>
+								</div>
+
+
+
+								<?php endforeach; ?>
+
+
+							</div>
+							
+							</div>
+							</div>
+
+						</section>
 		
 		<!-- CLIENTS 
 		<section>

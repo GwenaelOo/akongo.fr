@@ -192,13 +192,11 @@ if( isset($_POST['msg-submitted']) ) {
 								</address>
 							</div>
 							<div class="widget">
-								<h4 class="widget-title heading-border-left">Nos salons 2017</h4>
+								<h4 class="widget-title heading-border-left">Nos prochains rendez-vous</h4>
 								<ul class="list-unstyled">
-									<li>	<b>Zoo Design Conference</b></br> Zoo de Wroclaw, Pologne</li></br> 
-									<li>	<b>EAZA Annual Conference</b></br>  Zoo d’Emmen, Pays-Bas</li></br> 
+									<li>	<b>Annual symposium - Belgian Council for Laboratory Animal Science </b></br> Liège, Belgique</li></br> 
+									<li>	<b>EAZA Annual Conference 2018</b></br>  Athènes, Grece</li></br> 
 									<li>	<b>SFECA Annual Conference</b></br> Paris, France</li></br> 
-								
-
 								</ul>
 							</div>
 						</div>

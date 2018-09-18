@@ -59,7 +59,7 @@
 				<ol class="breadcrumb link-accent">
 					<li><a href="http://www.akongo.fr/">Accueil</a></li>
 					<li><a href="http://www.akongo.fr/formations/liste-formations.php">Nos formations</a></li>
-					<li class="active">Bien-être Animal</li>
+					<li class="active">Initiation à l'éthologie</li>
 					
 				
 				</ol>
@@ -76,7 +76,7 @@
 								<div class="table-cell">
 									<div class="container">
 										<h1 class="hero-heading" style="color: white; ">Formation professionnelle : "Initiation à l’éthologie"</h1>
-										<p class="lead" style="color: white; font-style: italic; ">S’initier à l’éthologie pour mieux comprendre les comportements des animaux qui nous entourent</p>
+										<p class="lead" style="color: white; font-style: italic; ">L’éthologie est un outil précieux pour la gestion d’animaux et l’évaluation de leur bien-être. Découvrez cette méthode scientifique. </p>
 									
 									</div>
 								</div>
@@ -94,32 +94,37 @@
 								<p class="formation-title">L’éthologie est un outil précieux pour la gestion d’animaux. Initiation ou perfectionnement, notre équipe est là pour vous accompagner. </p>
 								
 
-								<p><b>Objectif pédagogique :</b> acquisition, entretien ou perfectionnement des connaissances, conformément à l’article L6313-1 du code du travail.</p>
-								<p><b>Objectif de la formation :</b> Sensibiliser les professionnels à l’observation des comportements des animaux qui les entourent.</p>	</br>
+								<p><b>Objectif pédagogique :</b> Acquisition, entretien ou perfectionnement des connaissances, conformément à l’article L6313-1 du code du travail.</p>
+								<p><b>Objectif de la formation :</b> Sensibiliser les professionnels à l’observation des comportements des animaux qui les entourent pour les aider à veiller à leur santé et leur bien-être.</p>	</br>
 
-								<p> Les animaux qui nous entourent, même s’ils n’ont pas un langage verbal similaire au nôtre, s’expriment au travers de leurs comportements. L’éthologie, science de l’étude des comportements, est une approche non verbale pour comprendre et décrypter ces comportements, et surtout, interpréter la signification de ceux-ci. L’éthologie est ainsi une approche incontournable pour évaluer le bien-être. Cependant, pour que les données interprétées soient valides, une approche rigoureuse et scientifique est nécessaire.</p>
+								<p> Les animaux qui nous entourent, même s’ils n’ont pas un langage verbal similaire au nôtre, s’expriment au travers de leurs comportements. L’éthologie, science de l’étude des comportements, est une approche non verbale pour comprendre et décrypter ces comportements, et surtout, interpréter la signification de ceux-ci. L’éthologie est ainsi une approche incontournable pour évaluer le bien-être. Cependant, pour que les données interprétées soient valides, une approche rigoureuse et scientifique est nécessaire. Cette formation permettra de découvrir l’éthologie et ses applications, outil scientifique précieux mais qui nécessite une méthodologie rigoureuse. Les participants apprendront à comprendre et décrypter les comportements des animaux, les relations organisme-environnement, en se basant sur des approches comparatives et intégratives. Ils apprendront également à interpréter l’impact positif ou négatif des comportements induits par la captivité, évaluer l’effet d’un changement du milieu (changement au sein du groupe, mise en place d’enrichissements, etc.).</p>
 
 								<p>Contenu de la formation : </p>
 								<ul>
 						
-									<li> Histoire et concepts de l’éthologie.</li>
-									<li> Méthodes d’observations.</li>
-									<li> Méthodes d’étude.</li>
-									<li> L’animal dans son environnement.</li>
-									<li> Interactions physiques et sociales.</li>
-									<li> Construction d’un éthogramme.</li>
-									<li> Collecte de données et Analyse de résultats.</li>
-									<li> Ethologie et bien-être animal.</li>
+									<li> Histoire et objectifs de l’éthologie</li>
+									<li> Biologie, physiologie et éthologie</li>
+									<li> Méthodes d’observation </li>
+									<li> Mise en place d’un protocole</li>
+									<li> Construction d’un éthogramme</li>
+									<li> Collecte de données comportementales</li> 
+									<li> Habitat et répertoire comportemental </li>
+									<li> Animaux en captivité et en milieu naturel</li> 
+									<li> Évaluer l’effet d’un changement de l’environnement </li>
+									<li> Dynamique sociale </li>
+									<li> Stéréotypies et problèmes de comportements</li>
+
 
 								</ul>
 
 								<p>Cette formation conjugue :</p>
-								<ul>
-									<li>	Apports théoriques</li>
-									<li>	Exercices pratiques</li>
-									<li>	Présentations interactives, avec échanges et discussions tout au long des sessions</li>
-
-								</ul>
+									<ul>
+								<li> Présentations interactives </li>
+								<li> Apports théoriques</li>
+								<li> Exercices pratiques et ateliers</li>
+								<li> Retours d’expériences</li>
+								<li> Discussions et tables rondes </li>
+									</ul>
 
 
 								</br>
@@ -137,11 +142,11 @@
 								<h3 class="section-heading">Information sur la formation </h3>
 								<ul class="list-unstyled project-detail-list margin-bottom-50">
 
-									<li><strong>Public :</strong> Equipe animalière, et toute personne intéressée par la compréhension des comportements des animaux. </li>
-									<li><strong>Capacité :</strong> 4-16 personnes </li>
+									<li><strong>Public :</strong> Toute personne intéressée par la compréhension des comportements des animaux.</li>
+									<li><strong>Capacité :</strong> 16 personnes maximum </li>
 									<li><strong>Prérequis :</strong> Pas de prérequis. </li>
-									<li><strong>Durée :</strong> 1 journée </li>
-									<li><strong>Localisation :</strong> Dans vos locaux</li>
+									<li><strong>Durée :</strong> 2 jours </li>
+									<li><strong>Localisation :</strong> Dans vos locaux ou parc zoologique partenaire</li>
 									<li><strong>Tarif :</strong> Nous consulter pour un devis </li>
 								</ul>
 

@@ -76,7 +76,9 @@
 								<div class="table-cell">
 									<div class="container">
 										<h1 class="hero-heading" style="color: white; ">Formation professionnelle : « Nouveaux collaborateurs »</h1>
-										<p class="lead" style="color: white; font-style: italic; ">Nouveaux recrutés dans votre parc zoologique ? Profitez d’une formation dédiée pour construire un esprit d’équipe et un partage des connaissances, et une communication efficace.</p>
+										<p class="lead" style="color: white; font-style: italic; ">
+										Vous intégrez de nouveaux collaborateurs ? Profitez d’une journée de formation pour favoriser l’esprit d’équipe et le partage des connaissances, pour une communication efficace.
+										</p>
 								
 									</div>
 								</div>
@@ -91,35 +93,37 @@
 							<div class="portfolio-single-info" style="text-align: justify;">
 								<h1 class="section-heading">Formation professionnelle : « Nouveaux collaborateurs »</h1>
 								
-								<p class="formation-title">Challenges et nouveaux défis à relever pour se perfectionner et acquérir de nouvelles compétences. </p>
+								<p class="formation-title">Offrez à vos collaborateurs la possibilité de donner le meilleur d’eux-mêmes !</p>
 
 								<p><b>Objectif pédagogique :</b> Adaptation et de développement des compétences des salariés, conformément à l’article L6313-1 du code du travail.</p>
 								<p><b>Objectif de la formation :</b> Accueil et intégration des nouveaux collaborateurs.</p></br>
-								Votre équipe se renforce et accueille de nouveaux arrivants ? Profitez d’une formation dédiée pour construire un esprit d’équipe et un partage des connaissances, et une communication efficace entre les différents collaborateurs.
+								<p>
+								Cette formation est conçue pour promouvoir et faciliter le partage d’informations et de connaissances au sein d’une équipe. Nous verrons les éléments clés pour s’adapter à une nouvelle équipe, comprendre le rôle de chacun au sein de l’établissement et savoir communiquer à propos de son métier et des missions des parcs zoologiques auprès des visiteurs. 
+								</p>
+								<p>
+								Les connaissances, aptitudes et compétences transversales sont essentielles au développement professionnel. Améliorer ces compétences sont des atouts pour l’équipe animalière, qui permettront de renforcer la cohésion de groupe, et une organisation efficace. 
 								</p>
 								
 
-								<p>Les participants auront la possibilité de développer et partager leurs compétences grâce à des activités de groupe, des opportunités de développement individuelles et des travaux pratiques, axés sur :</p>
-								<ul>
-									
-									<li>	le bien-être animal.</li>
-									<li>	les aménagements d’enclos.</li>
-									<li>	les relations inter-individuelles.</li>
-									<li>	les relations hommes – animaux.</li>
-									<li>	la communication auprès des visiteurs.</li>
-									<li>	le travail d’équipe.</li>
-									<li>	la gestion des risques.</li> 
-
-								</ul>
-
 								<p>Cette formation conjugue :</p>
 									<ul>
-										<li>	Apports théoriques.</li>
-										<li>	Présentations interactives, avec échanges et discussions tout au long des sessions.</li>
-
+										<li> Intégration dans l’équipe et répartition des rôles </li>
+										<li> Gestion du temps et organisation de planning </li>
+										<li> Définition des objectifs professionnels </li>
+										<li> Gestion des risques et sécurité </li>
+										<li> Mettre en place et conserver une communication effective au sein des équipes • Savoir communiquer à propos de son métier et du rôle de l’établissement auprès des visiteurs.</li>
 									</ul>
 								</br>
 
+									<p>Cette formation conjugue :</p>
+								<ul>
+								<li> Présentations interactives </li>
+								<li> Apports théoriques</li>
+								<li> Exercices pratiques et ateliers</li>
+								<li> Retours d’expériences</li>
+								<li> Discussions et tables rondes </li>
+								
+								</ul>
 
 							</div>
 								</div>
@@ -133,8 +137,8 @@
 								<h3 class="section-heading">Information sur la formation </h3>
 								<ul class="list-unstyled project-detail-list margin-bottom-50">
 
-									<li><strong>Public :</strong> soigneurs animaliers, assistants scientifiques, vétérinaires, équipe pédagogique</li>
-									<li><strong>Capacité :</strong> 4-16 personnes </li>
+									<li><strong>Public :</strong> Toute personne travaillant au sein d’un établissement zoologique.</li>
+									<li><strong>Capacité :</strong> 16 personnes maximum </li>
 									<li><strong>Prérequis :</strong> pas de prérequis. </li>
 									<li><strong>Durée :</strong> 1 journée </li>
 									<li><strong>Localisation :</strong> Dans vos locaux</li>

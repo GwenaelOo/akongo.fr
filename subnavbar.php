@@ -31,7 +31,7 @@
 						</li>	
 
 						<li>
-							<a href="http://www.akongo.fr/services/amenagement-enclos.php">ZOO DESIGN</a>
+							<a href="http://www.akongo.fr/services/catalogue.php">CATALOGUE</a>
 						</li>
 
 						<li class="dropdown ">
@@ -83,8 +83,9 @@
                                 <a href="http://www.akongo.fr/formations/formation-personalisee.php">Formation personalisée</a>
 								</li>
 
-						
-							
+								<li class="dropdown ">
+                                <a href="http://www.akongo.fr/formations/qualification-europeenne-soigneur-animalier-EPZQF.php">Qualification européenne soigneur animalier (EPZQF)</a>
+								</li>
 							</ul>
 						</li>
 
