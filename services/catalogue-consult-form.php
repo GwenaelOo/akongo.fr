@@ -71,7 +71,7 @@
 			<section id="agenda">
 				<div class="container" style="text-align: justify;">
 						<div class="section-heading-center">
-							<h1 class="heading-border">Consulter le catalgoue 2018</h1>
+							<h1 class="heading-border">Consulter le catalogue 2018</h1>
 						</div>
 
 					<div class="col-md-6">
