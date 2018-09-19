@@ -40,6 +40,8 @@
 
 					</div>
 					<div class="col-md-4">
+					<center><img src="http://www.akongo.fr/assets/img/eaza/eaza-footer.png" class="img-responsive" alt="Logo EAZA Akongo formation soigneur" style="height: 200px;">
+					<hr class="light-sep">
 						<h4 class="footer-heading">RESTONS CONNECTES</h4>
 						<ul class="list-inline social-icons social-icons-small">
 							<li><a href="https://www.facebook.com/AkongoConseil/"><i class="fa fa-facebook"></i></a></li>

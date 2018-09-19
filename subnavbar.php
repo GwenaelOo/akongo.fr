@@ -23,7 +23,7 @@
 				<a href="http://www.akongo.fr/" class="navbar-brand">
 					<img src="http://www.akongo.eu/assets/img/logo/bravana-default.png" alt="AkongoLogo">
 				</a>
-		
+				
 				<div id="main-nav-collapse" class="collapse navbar-collapse">
 					<ul class="nav navbar-nav main-navbar-nav">
 						<li>
@@ -44,6 +44,10 @@
 
 								<li class="dropdown ">
 									<a href="http://www.akongo.fr/formations/liste-formations.php">Voir toutes les formations</a>
+								</li>
+
+								<li class="dropdown ">
+									<a href="http://www.akongo.fr/formations/formations-types.php">Comprendre les types de formations</a>
 								</li>
 
 								<li class="dropdown ">
@@ -129,6 +133,14 @@
 								</li>
 
 								<li>
+                                <a href="http://www.akongo.fr/about/EAZA.php">Akongo membre EAZA</a>
+								</li>
+
+									<li>
+                                <a href="http://www.akongo.fr/about/CGV.php">Conditions générales de vente</a>
+								</li>
+
+								<li>
                                 <a href="http://www.akongo.fr/about/agenda.php">Agenda</a>
 								</li>
 								
@@ -155,4 +167,7 @@
 							<a href="http://www.akongo.fr/about/contact.php">CONTACT</a>
 						</li>		
 				
+  						<li>
+						  <center><img src="http://www.akongo.fr/assets/img/eaza/eaza-web-ultra-tiny.jpg" class="img-responsive" alt="Logo EAZA Akongo" style="height: 35px; margin-top: 15px">
+						</li>
 						
